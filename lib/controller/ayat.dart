@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
-import 'package:appmuslim/base/send.dart';
-import 'package:appmuslim/db/db_quran.dart';
-import 'package:appmuslim/model/quran/ayat.dart';
+import 'package:nurulhudautan/base/send.dart';
+import 'package:nurulhudautan/db/db_quran.dart';
+import 'package:nurulhudautan/model/quran/ayat.dart';
 
 class ControllerAyat extends GetxController {
   RxList<ModelAyat> data = <ModelAyat>[].obs;

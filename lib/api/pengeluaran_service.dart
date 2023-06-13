@@ -1,5 +1,5 @@
 import 'dart:convert';
-import 'package:appmuslim/model/pengeluaran/pengeluaran_model.dart';
+import 'package:nurulhudautan/model/pengeluaran/pengeluaran_model.dart';
 import 'package:http/http.dart' as http;
 
 class PengeluaranService {

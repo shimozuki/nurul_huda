@@ -1,5 +1,5 @@
 import 'package:get/get.dart';
-import 'package:appmuslim/controller/splash.dart';
+import 'package:nurulhudautan/controller/splash.dart';
 
 class BindingSplash extends Bindings {
   @override

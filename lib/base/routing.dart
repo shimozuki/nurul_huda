@@ -1,13 +1,13 @@
 import 'package:get/get.dart';
-import 'package:appmuslim/binding/ayat.dart';
-import 'package:appmuslim/binding/main.dart';
-import 'package:appmuslim/binding/shalat.dart';
-import 'package:appmuslim/binding/splash.dart';
-import 'package:appmuslim/view/page_main.dart';
-import 'package:appmuslim/view/page_splash.dart';
-import 'package:appmuslim/view/quran/page_ayat.dart';
-import 'package:appmuslim/view/setting/page_setting.dart';
-import 'package:appmuslim/view/shalat/page_shalat.dart';
+import 'package:nurulhudautan/binding/ayat.dart';
+import 'package:nurulhudautan/binding/main.dart';
+import 'package:nurulhudautan/binding/shalat.dart';
+import 'package:nurulhudautan/binding/splash.dart';
+import 'package:nurulhudautan/view/page_main.dart';
+import 'package:nurulhudautan/view/page_splash.dart';
+import 'package:nurulhudautan/view/quran/page_ayat.dart';
+import 'package:nurulhudautan/view/setting/page_setting.dart';
+import 'package:nurulhudautan/view/shalat/page_shalat.dart';
 
 class BaseRoute {
   static List<GetPage> pages() => [

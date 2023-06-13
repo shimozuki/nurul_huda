@@ -1,8 +1,8 @@
-import 'package:appmuslim/component/bootom_bar.dart';
-import 'package:appmuslim/view/agenda.dart';
-import 'package:appmuslim/view/donation.dart';
-import 'package:appmuslim/view/keuangan.dart';
-import 'package:appmuslim/view/page_main.dart';
+import 'package:nurulhudautan/component/bootom_bar.dart';
+import 'package:nurulhudautan/view/agenda.dart';
+import 'package:nurulhudautan/view/donation.dart';
+import 'package:nurulhudautan/view/keuangan.dart';
+import 'package:nurulhudautan/view/page_main.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -180,7 +180,7 @@ class _ProfileState extends State<Profile> {
                                         CrossAxisAlignment.start,
                                     children: [
                                       Text(
-                                        "Nurulhudastober",
+                                        "nurulhudautanstober",
                                         style: TextStyle(
                                           fontSize: 15.0,
                                         ),

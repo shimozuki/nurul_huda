@@ -2,8 +2,8 @@ import 'dart:io';
 
 import 'package:flutter/services.dart';
 import 'package:path/path.dart';
-import 'package:appmuslim/model/quran/ayat.dart';
-import 'package:appmuslim/model/quran/surat.dart';
+import 'package:nurulhudautan/model/quran/ayat.dart';
+import 'package:nurulhudautan/model/quran/surat.dart';
 import 'package:sqflite/sqflite.dart';
 
 class DbQuran {

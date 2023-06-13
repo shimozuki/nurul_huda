@@ -1,18 +1,17 @@
 import 'dart:async';
-import 'dart:convert';
 
 import 'package:flutter/material.dart';
 import 'package:geocoding/geocoding.dart' as geo;
 import 'package:get/get.dart';
 import 'package:location/location.dart';
-import 'package:appmuslim/api/api_service.dart';
-import 'package:appmuslim/api/api_url.dart';
-import 'package:appmuslim/base/const.dart';
-import 'package:appmuslim/base/func.dart';
-import 'package:appmuslim/db/db_quran.dart';
-import 'package:appmuslim/model/quran/surat.dart';
-import 'package:appmuslim/model/shalat/daily.dart';
-import 'package:appmuslim/model/shalat/kota.dart';
+import 'package:nurulhudautan/api/api_service.dart';
+import 'package:nurulhudautan/api/api_url.dart';
+import 'package:nurulhudautan/base/const.dart';
+import 'package:nurulhudautan/base/func.dart';
+import 'package:nurulhudautan/db/db_quran.dart';
+import 'package:nurulhudautan/model/quran/surat.dart';
+import 'package:nurulhudautan/model/shalat/daily.dart';
+import 'package:nurulhudautan/model/shalat/kota.dart';
 
 class ControllerMain extends GetxController {
   RxList<ModelSurat> data = <ModelSurat>[].obs;

@@ -1,9 +1,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
-import 'package:appmuslim/api/api_service.dart';
-import 'package:appmuslim/api/api_url.dart';
-import 'package:appmuslim/base/send.dart';
-import 'package:appmuslim/model/shalat/monthly.dart';
+import 'package:nurulhudautan/api/api_service.dart';
+import 'package:nurulhudautan/api/api_url.dart';
+import 'package:nurulhudautan/base/send.dart';
+import 'package:nurulhudautan/model/shalat/monthly.dart';
 
 class ControllerShalat extends GetxController {
   RxList<Jadwal> data = <Jadwal>[].obs;

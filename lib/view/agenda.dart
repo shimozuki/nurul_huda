@@ -1,13 +1,13 @@
 // ignore_for_file: unused_field
 
-import 'package:appmuslim/api/agenda_service.dart';
-import 'package:appmuslim/component/bootom_bar.dart';
-import 'package:appmuslim/model/agenda/agenda_model.dart';
-import 'package:appmuslim/view/donation.dart';
-import 'package:appmuslim/view/gallery.dart';
-import 'package:appmuslim/view/keuangan.dart';
-import 'package:appmuslim/view/page_main.dart';
-import 'package:appmuslim/view/profil.dart';
+import 'package:nurulhudautan/api/agenda_service.dart';
+import 'package:nurulhudautan/component/bootom_bar.dart';
+import 'package:nurulhudautan/model/agenda/agenda_model.dart';
+import 'package:nurulhudautan/view/donation.dart';
+import 'package:nurulhudautan/view/gallery.dart';
+import 'package:nurulhudautan/view/keuangan.dart';
+import 'package:nurulhudautan/view/page_main.dart';
+import 'package:nurulhudautan/view/profil.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';

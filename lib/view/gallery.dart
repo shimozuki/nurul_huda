@@ -1,5 +1,5 @@
-import 'package:appmuslim/api/image_service.dart';
-import 'package:appmuslim/model/foto/image_model.dart';
+import 'package:nurulhudautan/api/image_service.dart';
+import 'package:nurulhudautan/model/foto/image_model.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
@@ -125,7 +125,7 @@ class _GalleryPageState extends State<GalleryPage> {
                                   borderRadius: BorderRadius.circular(20),
                                   image: DecorationImage(
                                       image: NetworkImage(
-                                          'http://nurulhuda.website/assets/foto/${image.fileName}'),
+                                          'http://nurulhudautan.website/assets/foto/${image.fileName}'),
                                       fit: BoxFit.cover)),
                               child: Transform.translate(
                                 offset: Offset(50, -50),

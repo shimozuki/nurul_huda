@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:appmuslim/controller/kota.dart';
+import 'package:nurulhudautan/controller/kota.dart';
 
 class MenuKota extends StatelessWidget {
   final curId;

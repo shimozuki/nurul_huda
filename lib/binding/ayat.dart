@@ -1,5 +1,5 @@
 import 'package:get/get.dart';
-import 'package:appmuslim/controller/ayat.dart';
+import 'package:nurulhudautan/controller/ayat.dart';
 
 class BindingAyat extends Bindings {
   @override

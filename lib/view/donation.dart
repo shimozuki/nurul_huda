@@ -1,8 +1,8 @@
-import 'package:appmuslim/component/bootom_bar.dart';
-import 'package:appmuslim/view/agenda.dart';
-import 'package:appmuslim/view/keuangan.dart';
-import 'package:appmuslim/view/page_main.dart';
-import 'package:appmuslim/view/profil.dart';
+import 'package:nurulhudautan/component/bootom_bar.dart';
+import 'package:nurulhudautan/view/agenda.dart';
+import 'package:nurulhudautan/view/keuangan.dart';
+import 'package:nurulhudautan/view/page_main.dart';
+import 'package:nurulhudautan/view/profil.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 

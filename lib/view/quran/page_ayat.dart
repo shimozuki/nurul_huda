@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:appmuslim/base/assets.dart';
-import 'package:appmuslim/base/global.dart';
-import 'package:appmuslim/controller/ayat.dart';
-import 'package:appmuslim/model/quran/ayat.dart';
+import 'package:nurulhudautan/base/assets.dart';
+import 'package:nurulhudautan/base/global.dart';
+import 'package:nurulhudautan/controller/ayat.dart';
+import 'package:nurulhudautan/model/quran/ayat.dart';
 
 class PageAyat extends GetView<ControllerAyat> {
   const PageAyat({Key? key}) : super(key: key);

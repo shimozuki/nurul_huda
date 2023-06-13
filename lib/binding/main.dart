@@ -1,5 +1,5 @@
 import 'package:get/get.dart';
-import 'package:appmuslim/controller/main.dart';
+import 'package:nurulhudautan/controller/main.dart';
 
 class BindingMain extends Bindings {
   @override

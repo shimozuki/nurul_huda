@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:intl/intl.dart';
-import 'package:appmuslim/base/const.dart';
-import 'package:appmuslim/controller/shalat.dart';
-import 'package:appmuslim/model/shalat/monthly.dart';
-import 'package:appmuslim/view/menu/menu_kota.dart';
+import 'package:nurulhudautan/base/const.dart';
+import 'package:nurulhudautan/controller/shalat.dart';
+import 'package:nurulhudautan/model/shalat/monthly.dart';
+import 'package:nurulhudautan/view/menu/menu_kota.dart';
 
 class PageShalat extends GetView<ControllerShalat> {
   @override

@@ -1,5 +1,5 @@
 import 'package:get/get.dart';
-import 'package:appmuslim/controller/shalat.dart';
+import 'package:nurulhudautan/controller/shalat.dart';
 
 class BindingShalat extends Bindings {
   @override

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:appmuslim/base/global.dart';
+import 'package:nurulhudautan/base/global.dart';
 
 class PageSetting extends StatelessWidget {
   String about = "Silahkan digunakan untuk belajar & dikembangkan"

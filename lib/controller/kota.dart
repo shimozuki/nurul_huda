@@ -1,8 +1,6 @@
-import 'dart:convert';
-
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:appmuslim/api/api_url.dart';
+import 'package:nurulhudautan/api/api_url.dart';
 
 class ControllerKota extends GetxController {
   RxList<dynamic> data = <dynamic>[].obs;

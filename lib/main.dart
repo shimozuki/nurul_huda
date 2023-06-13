@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:appmuslim/base/routing.dart';
+import 'package:nurulhudautan/base/routing.dart';
 
 void main() => runApp(MyApp());
 
@@ -15,6 +15,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
+      debugShowCheckedModeBanner: false,
       initialRoute: PageTo.splash,
       getPages: BaseRoute.pages(),
       theme: ThemeData(

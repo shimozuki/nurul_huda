@@ -1,19 +1,19 @@
-import 'package:appmuslim/component/bootom_bar.dart';
-import 'package:appmuslim/view/agenda.dart';
-import 'package:appmuslim/view/donation.dart';
-import 'package:appmuslim/view/keuangan.dart';
-import 'package:appmuslim/view/profil.dart';
+import 'package:nurulhudautan/component/bootom_bar.dart';
+import 'package:nurulhudautan/view/agenda.dart';
+import 'package:nurulhudautan/view/donation.dart';
+import 'package:nurulhudautan/view/keuangan.dart';
+import 'package:nurulhudautan/view/profil.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:intl/intl.dart';
-import 'package:appmuslim/base/assets.dart';
-import 'package:appmuslim/base/const.dart';
+import 'package:nurulhudautan/base/assets.dart';
+import 'package:nurulhudautan/base/const.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:appmuslim/base/routing.dart';
-import 'package:appmuslim/base/send.dart';
-import 'package:appmuslim/controller/main.dart';
-import 'package:appmuslim/model/quran/surat.dart';
+import 'package:nurulhudautan/base/routing.dart';
+import 'package:nurulhudautan/base/send.dart';
+import 'package:nurulhudautan/controller/main.dart';
+import 'package:nurulhudautan/model/quran/surat.dart';
 
 class PageMain extends StatefulWidget {
   const PageMain({super.key});
@@ -312,7 +312,7 @@ class _PageMainState extends State<PageMain> {
                                     width: 290,
                                     height: 30,
                                     child: Text(
-                                      'Nurul Huda Sumbawa',
+                                      'Nurul Huda Utan',
                                       style: GoogleFonts.inter(
                                         fontSize: 24,
                                         fontWeight: FontWeight.w700,
